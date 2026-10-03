@@ -1,41 +1,29 @@
-# 👋 Hi, I'm Karthikeya Vaibhav
+# 👋 Hi, I'm Karthikeya Vaibhav!
 
-### 🚀 Senior Technical Program Manager — AI & Automation
+> Senior Technical Program Manager by day 💼 | Builder of fun AI & automation tools by night 🛠️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeya--Vaibhav-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karthikeya-vaibhav)
-[![GitHub](https://img.shields.io/badge/GitHub-kvai9826-black?style=for-the-badge&logo=github)](https://github.com/kvai9826)
-
-Senior Technical Program Manager specializing in **AI Engineering**, **LLM Systems**, **FinTech Automation**, and **Enterprise Machine Learning Workflows**.
+I build software and open-source tools for fun to solve real-world, day-to-day problems—from analyzing stock financials in seconds to building custom AI agents, automated workflows, and data pipelines.
 
 ---
 
-## 🛠️ Technical Stack & Expertise
-
-- **AI & LLM Architecture:** OpenRouter, Google Gemini API, Llama 3, DeepSeek R1, Prompt Engineering, RAG Systems
-- **FinTech & Automation:** Screener.in Data Extractor, Quantitative Stock Scanners, Automated Trading APIs
-- **Languages & Frameworks:** Python, Streamlit, Pandas, BeautifulSoup, REST APIs, Git, Unix Shell
+## 🛠️ Things I Love Building With
+- **AI & Agentic Systems:** OpenRouter, Google Gemini, Llama 3, DeepSeek R1, Agentic Workflows, RAG
+- **Python & Automation:** Streamlit, Pandas, Web Scraping (BeautifulSoup), Data Pipelines, REST APIs
+- **Cloud & DevOps:** AWS (Lambda, S3, Bedrock, SageMaker), SQL, Azure DevOps, Agile Delivery
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Fun Projects
 
 ### 📈 [Screener.in AI Stock Analyzer & Comparison Engine](https://github.com/kvai9826/screener-ai-stock-analyzer)
-> Automated open-source financial statement extraction from Screener.in, live web sentiment crawler, and multi-horizon AI equity research report generator powered by OpenRouter (Gemma 4, DeepSeek R1) & Gemini.
-
-### 🖼️ [Image Clustering](https://github.com/kvai9826/Image_clustering)
-> Unsupervised computer vision and image representation clustering models.
-
-### 🤖 [SBERT & NLP Experiments](https://github.com/kvai9826/sbert)
-> Sentence Transformer embeddings and semantic search pipelines.
+> Built to solve my own stock research workflow! Automatically parses Screener.in financials, crawls global news sentiment, and generates multi-horizon AI equity research reports with OpenRouter (Gemma 4, DeepSeek R1) & Gemini.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvai9826&show_icons=true&theme=radial&count_private=true" alt="Karthikeya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvai9826&layout=compact&theme=radial" alt="Top Languages" />
-</p>
+## 📜 Background & Certifications
+- 💼 **Senior Technical Program Manager** @ GE Vernova *(ex-Amazon GenAI Enablement TPM)*
+- 🎓 **B.Tech in Computer Science Engineering**
+- ☁️ **AWS Certified AI Practitioner (AIF-C01)** | **Lean Six Sigma Yellow Belt**
 
 ---
 
