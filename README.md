@@ -16,7 +16,7 @@ I build software and open-source tools for fun to solve real-world, day-to-day p
 ## 🚀 Featured Fun Projects
 
 ### 📈 [Screener.in AI Stock Analyzer & Comparison Engine](https://github.com/kvai9826/screener-ai-stock-analyzer)
-> Built to solve my own stock research workflow! Automatically parses Screener.in financials, crawls global news sentiment, and generates multi-horizon AI equity research reports with OpenRouter (Gemma 4, DeepSeek R1) & Gemini.
+> Built to solve my own stock research workflow! Automatically extracts Screener.in QoQ Financials, FII/DII shareholding, crawls news sentiment, and generates multi-horizon AI equity research reports with OpenRouter (Gemma 4, DeepSeek R1) & Gemini.
 
 ---
 
