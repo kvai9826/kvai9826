@@ -5,76 +5,77 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeya-vaibhav)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvai9826)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Role](https://img.shields.io/badge/Role-Senior_TPM-2563eb?style=for-the-badge)](https://linkedin.com/in/karthikeya-vaibhav)
+[![Role](https://img.shields.io/badge/Role-AI_Program_Manager-8b5cf6?style=for-the-badge)](https://linkedin.com/in/karthikeya-vaibhav)
 
-<h3>Senior Technical Program Manager @ GE Vernova | Distributed Systems, AI Swarms & Intelligent Automation</h3>
+<h3>AI Program Manager @ GE Vernova | ex-Amazon GenAI Enablement | AI Tool Builder</h3>
 
 <p>
-Bridging the gap between distributed software architecture and executive technical delivery. Experienced in orchestrating large-scale cloud infrastructure, autonomous multi-agent swarms, and high-concurrency systems.
+I am an AI Program Manager passionate about building smart tools that solve real-world problems. By day, I lead Generative AI adoption, intelligent automation, and enterprise transformation. By night, I get hands-on building autonomous agent swarms, stock analysis engines, and developer tools.
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Engineering & Open-Source Projects
+## 💡 About Me
 
-### 📚 [System Design for Program Managers: The Architectural Handbook](https://github.com/kvai9826/system-design-for-program-managers)
-> **The book-grade distributed systems handbook and curriculum designed specifically for Technical Program Managers, Product Managers, and engineering leaders.**
->
-> - **5 Structured Curriculum Modules**: Client-server networking (HTTP/3, QUIC, gRPC), data architecture (LSM vs B-Tree, sharding, PACELC theorem), resilience patterns (Circuit Breaker, bulkheading, exponential jitter), and TPM execution frameworks.
-> - **5 Production-Grade Case Studies**: Real-world architectures for Uber H3 geospatial dispatch, YouTube video transcoding DAGs, flash-sale inventory reservation, multi-channel notification cascading ($2.5B savings model), and high-throughput URL shortening.
-> - **Engineering Rigor**: Full Architectural Decision Records (ADRs), Failure Mode and Effects Analysis (FMEA), wire-protocol capacity math (TLS 1.3 / TCP / IP / WebSocket overhead), and automated CI quality gates.
-> 
-> *Stack: Distributed Systems, Architecture, Python, Mermaid, Capacity Modeling, FMEA, ADR*
+- 🤖 **What I Do**: Lead AI programs from vision to adoption, connecting business strategy with hands-on AI prototyping.
+- 🛠️ **Builder at Heart**: I love building tools for fun to automate repetitive workflows, test frontier LLM models, and explore agentic architectures.
+- 🤝 **Community & Mentorship**: I wrote the *System Design for Program Managers* handbook to help budding TPMs and Product Managers build technical confidence and master architectural trade-offs without getting lost in the weeds.
 
 ---
 
-### 🤖 [The Boardroom: Autonomous Executive Multi-Agent Swarm](https://github.com/kvai9826/the-boardroom)
-> **Autonomous executive multi-agent swarm simulating C-suite, PMO, and Software Engineering squads with 3D debate visualization, ADR synthesis, and self-healing codebase execution.**
+## 🚀 Things I've Built
+
+### 🤖 [The Boardroom: Autonomous Multi-Agent Swarm](https://github.com/kvai9826/the-boardroom)
+> **An autonomous executive multi-agent swarm simulating C-suite, PMO, and software engineering squads.**
 >
-> - Simulates collaborative cross-functional executive alignment across CEO, CTO, CPO, and TPM agents.
-> - Synthesizes actionable Architecture Decision Records (ADRs) directly from autonomous debate sessions.
-> - Coordinates automated self-healing software execution squads to validate and deploy implementations.
+> - Explores how autonomous AI agents collaborate, debate trade-offs, and reach cross-functional alignment.
+> - Synthesizes actionable Architecture Decision Records (ADRs) directly from autonomous executive debate sessions.
+> - Demonstrates self-healing code execution and autonomous task breakdown across specialized agent roles.
 >
-> *Stack: Python, Multi-Agent Systems, Agentic AI, Autonomous Execution, Streamlit*
+> *Focus: Multi-Agent Systems, Agentic Workflows, LLM Orchestration, Python, Streamlit*
 
 ---
 
 ### 📈 [Screener.in AI Stock Analyzer & Comparison Engine](https://github.com/kvai9826/screener-ai-stock-analyzer)
-> **AI-powered multi-horizon equity research and stock comparison tool automating fundamental financial analysis.**
+> **A practical financial intelligence tool built to automate deep fundamental equity research.**
 >
-> - Extracts Screener.in quarter-on-quarter (QoQ) financials, balance sheets, and cash flows in seconds.
-> - Analyzes FII / DII institutional shareholding momentum and crawls news sentiment.
-> - Generates deep multi-horizon equity research reports utilizing OpenRouter (DeepSeek R1, Gemma 4) and Google Gemini.
+> - Built to solve my own stock research workflow by scraping Screener.in quarter-on-quarter (QoQ) financials, balance sheets, and cash flows.
+> - Tracks institutional FII and DII shareholding shifts and crawls market news sentiment.
+> - Generates multi-horizon AI research reports utilizing OpenRouter (DeepSeek R1, Gemma 4) and Google Gemini.
 >
-> *Stack: Python, Streamlit, OpenRouter, Google Gemini, BeautifulSoup, Financial Analytics*
+> *Focus: Generative AI, Financial Analytics, Python, Web Scraping, Prompt Engineering*
 
 ---
 
-## 🛠️ Technical Competencies & Architectural Toolkit
+### 📚 [System Design for Program Managers: The Architectural Handbook](https://github.com/kvai9826/system-design-for-program-managers)
+> **An open-source reference handbook built to help budding Program Managers and Product Managers learn system design without fear.**
+>
+> - **Built for the Community**: Bridges the gap between high-level product strategy and deep engineering architectures so PMs can speak the engineer's language with confidence.
+> - **5 Core Learning Modules**: Networking fundamentals (HTTP/3, gRPC), data stores (SQL vs NoSQL), system resilience (circuit breakers, SLAs/SLOs), and TPM execution roadmaps.
+> - **5 Real-World Case Studies**: Easy-to-understand visual walkthroughs of ride-sharing dispatch, video streaming DAGs, flash-sale checkout, and multi-channel notifications.
+> - **Practical Decision Tools**: Concrete Architectural Decision Record (ADR) templates, trade-off tables, and visual Mermaid diagrams.
+>
+> *Focus: TPM Mentorship, Architecture Foundations, Open Source, Career Growth*
 
-| Domain | Core Competencies & Technologies |
+---
+
+## 🛠️ What I Love Building With
+
+| Focus Area | Technologies & Tools |
 | :--- | :--- |
-| **System Architecture & Distributed Systems** | Distributed Systems Design, Microservices, Event-Driven Architecture, High Availability (HA), Multi-Region Failover, FMEA, Capacity Planning, Consensus Protocols, Multi-Tier Caching |
-| **AI & Intelligent Automation** | Multi-Agent Swarms, Agentic Workflows, LLM Orchestration (Gemini, Llama 3, DeepSeek R1), OpenRouter, RAG Pipelines, Prompt Engineering |
-| **Cloud, Data & Infrastructure** | AWS (Lambda, S3, Bedrock, SageMaker), Docker, PostgreSQL, Redis, Apache Kafka, REST APIs, WebSocket Framing, CI/CD GitHub Actions |
-| **TPM & Delivery Leadership** | Architecture Decision Records (ADRs), Cross-Team Dependency Management, Risk Mitigation, Agile / Scrum Governance, SLI/SLO/SLA Error Budgets, Lean Six Sigma |
+| **Generative AI & Agentic Systems** | Multi-Agent Swarms, Agentic Workflows, LLM Orchestration (Gemini, Llama 3, DeepSeek R1), OpenRouter, RAG Pipelines, Prompt Engineering |
+| **Tool Building & Prototyping** | Python, Streamlit, REST APIs, Automation Scripts, Web Scraping (BeautifulSoup), Data Pipelines |
+| **AI Program Management** | GenAI End-User Adoption, AI Product Roadmaps, AI Governance & Ethics, Cross-Functional Execution, Agile / Scrum Delivery |
+| **Cloud & Platforms** | AWS (Bedrock, SageMaker, Lambda, S3), SQL, GitHub Actions, Docker |
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Background & Credentials
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvai9826&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvai9826&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-</div>
-
----
-
-## 💼 Career & Background
-
-- 💼 **Senior Technical Program Manager** at **GE Vernova** *(ex-Amazon GenAI Enablement TPM)*
+- 💼 **Senior Technical Program Manager (AI & Intelligent Automation)** at **GE Vernova**
+- 💼 **Former GenAI Enablement TPM** at **Amazon**
 - 🎓 **B.Tech in Computer Science and Engineering**
 - ☁️ **AWS Certified AI Practitioner (AIF-C01)**
 - 🎖️ **Lean Six Sigma Yellow Belt**
@@ -83,5 +84,5 @@ Bridging the gap between distributed software architecture and executive technic
 ---
 
 <div align="center">
-  📫 <b>Connect with me:</b> <a href="https://linkedin.com/in/karthikeya-vaibhav">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/kvai9826">GitHub</a>
+  📫 <b>Let's connect:</b> <a href="https://linkedin.com/in/karthikeya-vaibhav">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/kvai9826">GitHub</a>
 </div>
