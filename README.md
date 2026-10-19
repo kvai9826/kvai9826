@@ -1,32 +1,26 @@
 # 👋 Hi, I'm Karthikeya Vaibhav!
 
-> Senior Technical Program Manager by day 💼 | Builder of Agentic AI & Automation Systems by night 🛠️
+> Senior Technical Program Manager by day 💼 | Builder of fun AI & automation tools by night 🛠️
 
-I build software, autonomous agentic systems, and open-source tools to solve complex real-world problems—from autonomous multi-agent organizations simulating C-suites to financial analysis engines and self-healing software loops.
-
----
-
-## 🛠️ Skills & Technologies
-
-- **🤖 Agentic AI & LLM Systems:** Multi-Agent Swarm Orchestration, Controlled Autonomy, Epistemic Guardrails, Local LLMs (LM Studio, Ollama, GGUF/MLX), OpenRouter, DeepSeek R1, Google Gemini, Llama 3, Tool Calling & Subprocess Sandboxing, RAG
-- **💻 Full-Stack & Systems Engineering:** Python (AsyncIO, FastAPI, Subprocess Execution), RESTful APIs, WebSockets, Interactive Canvas / Isometric 2.5D Visualization, Streamlit, Pandas, Self-Healing Code Runners (Pytest, Unittest)
-- **☁️ Cloud & DevOps:** AWS (Bedrock, SageMaker, Lambda, S3), Docker Containerization, Git Version Control, SQL, CI/CD Pipelines, Azure DevOps
-- **📊 Technical Program Leadership:** Enterprise Governance, Architecture Decision Records (ADR), FinOps & CapEx/OpEx Auditing, Zero-Trust Architecture, Statutory Compliance (PCI-DSS, SOC2), Agile Delivery, Lean Six Sigma
+I build software and open-source tools for fun to solve real-world, day-to-day problems - from analyzing stock financials in seconds to building custom AI agents, automated workflows, and data pipelines.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Things I Love Building With
+- **AI & Agentic Systems:** OpenRouter, Google Gemini, Llama 3, DeepSeek R1, Agentic Workflows, RAG
+- **Python & Automation:** Streamlit, Pandas, Web Scraping (BeautifulSoup), Data Pipelines, REST APIs
+- **Cloud & DevOps:** AWS (Lambda, S3, Bedrock, SageMaker), SQL, Azure DevOps, Agile Delivery
+
+---
+
+## 🚀 Featured Fun Projects
 
 ### 📚 [System Design for Program Managers: The Architectural Handbook](https://github.com/kvai9826/system-design-for-program-managers)
-> **A book-grade distributed systems reference guide and curriculum built specifically for aspiring and senior Technical Program Managers (TPMs) and Product Managers.**  
-> Bridges the gap between code-level SWE design and TPM architectural leadership. Covers distributed fundamentals (HTTP/3, gRPC, multi-tier caching, consistent hashing, CAP and PACELC), NFRs and high availability math, the 5-stage TPM interview blueprint, zero-downtime migration patterns (Strangler Fig, Canary), and end-to-end real-world case studies (Uber H3 geospatial dispatch, YouTube video transcoding, and flash sale inventory reservation) with visual Mermaid diagrams.
-
-### 🏛️ [The Boardroom — Autonomous Executive Multi-Agent Swarm](https://github.com/kvai9826/the-boardroom)
-> **An autonomous multi-agent corporate organization simulating a C-suite, program management office, and autonomous software engineering squad.**  
-> Features 100% private local LLM inference (LM Studio) and cloud streaming (OpenRouter), controlled autonomy with epistemic guardrails, real-time 3D interactive boardroom debates, binding managerial arbitration, automated ADR synthesis, and a Phase 7 software squad that writes production code with an autonomous self-healing test loop.
+> **A book-grade distributed systems reference guide and curriculum built specifically for aspiring and senior Technical Program Managers (TPMs), Product Managers, and engineering leaders.**  
+> Bridges the gap between code-level SWE design and TPM architectural leadership. Features 5 comprehensive modules, formal Architectural Decision Records (ADRs), Failure Mode and Effects Analysis (FMEA), rigorous back-of-the-envelope capacity calculations (Zipfian power laws, L4/L7 wire protocol overhead), and 5 full-scale real-world case studies (Uber H3 geospatial dispatch, YouTube video transcoding DAGs, flash-sale inventory reservation, multi-channel notification cascading, and high-throughput URL shortening) with publication-quality Mermaid visual architecture.
 
 ### 📈 [Screener.in AI Stock Analyzer & Comparison Engine](https://github.com/kvai9826/screener-ai-stock-analyzer)
-> Built to streamline equity research workflows. Automatically extracts Screener.in QoQ Financials, FII/DII shareholding patterns, crawls news sentiment, and generates multi-horizon AI equity research reports with OpenRouter (Gemma, DeepSeek R1) & Gemini.
+> Built to solve my own stock research workflow! Automatically extracts Screener.in QoQ Financials, FII/DII shareholding, crawls news sentiment, and generates multi-horizon AI equity research reports with OpenRouter (Gemma 4, DeepSeek R1) & Gemini.
 
 ---
 
