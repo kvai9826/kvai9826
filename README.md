@@ -17,6 +17,10 @@ I build software, autonomous agentic systems, and open-source tools to solve com
 
 ## 🚀 Featured Projects
 
+### 📚 [System Design for Program Managers: The Architectural Handbook](https://github.com/kvai9826/system-design-for-program-managers)
+> **A book-grade distributed systems reference guide and curriculum built specifically for aspiring and senior Technical Program Managers (TPMs) and Product Managers.**  
+> Bridges the gap between code-level SWE design and TPM architectural leadership. Covers distributed fundamentals (HTTP/3, gRPC, multi-tier caching, consistent hashing, CAP and PACELC), NFRs and high availability math, the 5-stage TPM interview blueprint, zero-downtime migration patterns (Strangler Fig, Canary), and end-to-end real-world case studies (Uber H3 geospatial dispatch, YouTube video transcoding, and flash sale inventory reservation) with visual Mermaid diagrams.
+
 ### 🏛️ [The Boardroom — Autonomous Executive Multi-Agent Swarm](https://github.com/kvai9826/the-boardroom)
 > **An autonomous multi-agent corporate organization simulating a C-suite, program management office, and autonomous software engineering squad.**  
 > Features 100% private local LLM inference (LM Studio) and cloud streaming (OpenRouter), controlled autonomy with epistemic guardrails, real-time 3D interactive boardroom debates, binding managerial arbitration, automated ADR synthesis, and a Phase 7 software squad that writes production code with an autonomous self-healing test loop.
